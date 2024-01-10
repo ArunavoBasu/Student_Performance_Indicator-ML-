@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+
+### -e . --> this is to run the setup.py file, whenever we are running the requirements.txt file
+-e .
