@@ -6,6 +6,7 @@ scikit-learn
 catboost
 xgboost
 Flask
+dill
 
 ### -e . --> this is to run the setup.py file, whenever we are running the requirements.txt file
 # -e . ## Commenting this as we do not want to build the whole package again and again, run it only one time
